@@ -2,7 +2,11 @@
 
 This week focuses on strengthening core Python concepts required for Data Analysis.
 
-## Topics Covered
+---
+
+## Day 1 – Python Basics
+
+### Topics Covered
 - Variables
 - Data Types
 - Input Handling
@@ -12,7 +16,24 @@ This week focuses on strengthening core Python concepts required for Data Analys
 - Logical Operators
 - String Operations
 
-## Mini Projects
+### Mini Projects
 - Basic Calculator
 - Grade Calculator
 - Scholarship Eligibility Checker
+
+---
+
+## Day 2 – Python Lists
+
+### Topics Covered
+- Creating Lists
+- List Indexing
+- List Slicing
+- List Methods (append, insert, remove, pop)
+- Sorting Lists (sort vs sorted)
+- Filtering Data from Lists
+- Manual Calculations using Loops
+- Counting values using conditions
+
+### Mini Project
+- Student Marks Analyzer
