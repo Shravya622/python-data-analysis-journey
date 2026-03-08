@@ -37,3 +37,22 @@ This week focuses on strengthening core Python concepts required for Data Analys
 
 ### Mini Project
 - Student Marks Analyzer
+
+---
+
+## Day 3 – Python Dictionaries
+
+### Topics Covered
+- Creating Dictionaries
+- Accessing Dictionary Values
+- Adding and Updating Items
+- Removing Items (pop)
+- Looping Through Dictionaries (keys, values, items)
+- Nested Dictionaries
+- Dictionaries with Lists
+- Dictionary Transformation
+- Filtering Dictionary Data using Conditions
+
+### Mini Project
+- Student Report
+- Inventory System
