@@ -56,3 +56,17 @@ This week focuses on strengthening core Python concepts required for Data Analys
 ### Mini Project
 - Student Report
 - Inventory System
+
+---
+
+## Day 4 – Loops for Data Processing
+
+### Topics Covered
+- Iterating through lists
+- Iterating through dictionaries
+- Conditional filtering
+- Aggregation using loops
+- Processing list of dictionaries (dataset structure)
+
+### Mini Project
+- Student Dataset Analyzer
