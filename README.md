@@ -19,6 +19,7 @@ Each week contains notebooks with concepts, practice exercises, and mini project
 - Day 1: Python Basics (variables, data types, conditional statements, logical operators)
 - Day 2: Python Lists (indexing, slicing, list methods, filtering, sorting)
 - Day 3: Python Dictionaries (key-value structure, nested dictionaries, transformations, mini project)
+- Day 4: Loops for Data Processing (processing lists, dictionaries, dataset structures)
 
 More topics will be added as the learning journey progresses.
 
